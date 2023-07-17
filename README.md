@@ -8,7 +8,7 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Azure Cosmos Databases</b> 
+- <b>Azure Cosmos Database</b> 
 
 <h2>Program Screenshots:</h2>
 
